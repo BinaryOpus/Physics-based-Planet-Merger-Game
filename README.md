@@ -78,7 +78,7 @@ Clone the repository:
 
 Navigate into the project:
 
-    cd "Physics-based Planet Merger Game"
+    cd "Physics-based-Planet-Merger-Game"
 
 On Windows, run:
 
