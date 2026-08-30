@@ -1,6 +1,6 @@
 # Physics-based Planet Merger Game
 
-## 🌌 Spiral Galaxy
+## 🌌 Merger Game
 
 ![SpeedDemo](Resources/PlanetMergerOne.gif)
 
