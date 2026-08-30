@@ -1,0 +1,7 @@
+# Compiled Java files
+*.class
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
